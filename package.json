@@ -4,7 +4,8 @@
   "description": "Mega menu UI interface",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "python -m SimpleHTTPServer 8000"
   },
   "dependencies": {
     "angular": "1.4.0"
